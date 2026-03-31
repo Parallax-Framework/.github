@@ -24,7 +24,7 @@ Nutscript (~2014, by Chessnut & Black Tea) is a monolithic framework where the f
 
 ### vs. Helix
 
-Helix (~2018) is a direct successor to NutScript 1.1, retaining much of the same architecture with stability and feature improvements. It uses the standard GMod net library and a grid-based inventory system. Helix has a plugin ecosystem with a centralized Plugin Center. Its schema structure is similar to Parallax in that schemas derive from the framework, but there's no explicit module directory convention — plugins serve as the primary extensibility layer. The last formal release was in 2018 (beta), though development continued beyond that. The community remains active via Discord and continues to open pull requests on GitHub, but there have been no major updates ever since the beta release.
+Helix (~2018) is a direct successor to NutScript 1.1, retaining much of the same architecture with stability and feature improvements. It uses the standard GMod net library and a grid-based inventory system, same as Nutscript. Parallax and Clockwork both use weight-based inventories instead. Helix has a plugin ecosystem with a centralized Plugin Center. Its schema structure is similar to Parallax in that schemas derive from the framework, but there's no explicit module directory convention — plugins serve as the primary extensibility layer. The last formal release was in 2018 (beta), though development continued beyond that. The community remains active via Discord and continues to open pull requests on GitHub, but there have been no major updates ever since the beta release.
 
 ### vs. Clockwork
 
